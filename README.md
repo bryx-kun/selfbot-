@@ -1,2 +1,4 @@
-# selfbot-
-This selfbot is encoded by ThatBreadGuy#1653 this only works on discord
+# selfbot-(out of order)
+
+
+Recoded by ThatBreadGuy from discord...this is not my code it was given to me by ThatBreadGuy
